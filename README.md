@@ -14,7 +14,7 @@ Features
 •	Login Functionality: Simple user authentication before accessing the phonebook management system.
 
 Installation and Setup
-1.	Clone the repository: https://github.com/WHYNOTJOSH/PhonebookProject-NUST.git
+1.	Clone the repository: https://github.com/WHYNOTJOSH/PHONEBOOKPROJECT.git
 2.	Run the application:
 o	Open the project in NetBeans or your preferred IDE.
 o	Build and run the project.
